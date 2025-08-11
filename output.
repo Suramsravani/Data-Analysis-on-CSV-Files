@@ -1,0 +1,66 @@
+First 5 rows of the dataset:
+         Date Region Product  Quantity  Sales
+0  2025-01-01   East     Pen       120    300
+1  2025-01-02   West  Pencil       200    400
+2  2025-01-03   East    Book       150    450
+3  2025-01-04  North     Pen       100    250
+4  2025-01-05   West    Book       180    500
+
+Dataset Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 9 entries, 0 to 8
+Data columns (total 5 columns):
+ #   Column    Non-Null Count  Dtype 
+---  ------    --------------  ----- 
+ 0   Date      9 non-null      object
+ 1   Region    9 non-null      object
+ 2   Product   9 non-null      object
+ 3   Quantity  9 non-null      int64 
+ 4   Sales     9 non-null      int64 
+dtypes: int64(2), object(3)
+memory usage: 492.0+ bytes
+None
+
+Summary Statistics:
+         Quantity       Sales
+...
+Book      660
+Pen       320
+Pencil    400
+Name: Quantity, dtype: int64
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...First 5 rows of the dataset:
+         Date Region Product  Quantity  Sales
+0  2025-01-01   East     Pen       120    300
+1  2025-01-02   West  Pencil       200    400
+2  2025-01-03   East    Book       150    450
+3  2025-01-04  North     Pen       100    250
+4  2025-01-05   West    Book       180    500
+
+Dataset Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 9 entries, 0 to 8
+Data columns (total 5 columns):
+ #   Column    Non-Null Count  Dtype 
+---  ------    --------------  ----- 
+ 0   Date      9 non-null      object
+ 1   Region    9 non-null      object
+ 2   Product   9 non-null      object
+ 3   Quantity  9 non-null      int64 
+ 4   Sales     9 non-null      int64 
+dtypes: int64(2), object(3)
+memory usage: 492.0+ bytes
+None
+
+Summary Statistics:
+         Quantity       Sales
+...
+Book      660
+Pen       320
+Pencil    400
+Name: Quantity, dtype: int64
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+
+outputgraph1.png
+outputgraph2.png
+outputgraph3.png
+
