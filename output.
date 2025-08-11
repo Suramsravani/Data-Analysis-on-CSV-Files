@@ -60,7 +60,7 @@ Pencil    400
 Name: Quantity, dtype: int64
 Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
 
-outputgraph1.png
-outputgraph2.png
-outputgraph3.png
+outputgraph1.png #file
+outputgraph2.png  #file
+outputgraph3.png   #file
 
